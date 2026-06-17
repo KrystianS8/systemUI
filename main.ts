@@ -1,5 +1,5 @@
 //% weight=100 color=#00AEEF icon="⚙"
-namespace systemUI {
+namespace systemui {
 
     // LOADER SPRITE KIND
     //% block="loader"
