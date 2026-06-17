@@ -1,0 +1,8 @@
+{
+    "name": "systemUI",
+    "version": "0.0.1",
+    "description": "UI loading and saving animations",
+    "dependencies": {
+        "device": "*"
+    }
+}
