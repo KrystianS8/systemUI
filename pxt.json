@@ -1,15 +1,14 @@
 {
     "name": "systemui",
-    "version": "0.0.1",
+    "version": "0.1.2",
     "description": "UI loading and saving animations",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "settings": "*",
+        "arcade-story": "*"
     },
-    "preferredEditor": "arcade"
-"dependencies": {
-    "device": "*",
-    "settings": "*"
+    "preferredEditor": "arcade",
+    "files": [
+        "main.ts"
+    ]
 }
-
-}
-
