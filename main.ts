@@ -39,8 +39,9 @@ export function createLoadingSprite(): Sprite {
         animation.stopAnimation(animation.AnimationTypes.All, s)
     }
 
-    // reset background
-    scene.setBackgroundImage(img``)
+    scene.setBackgroundColor(15)
+        //Reset the Background
+        scene.setBackgroundImage(img ``)
 
     // NOW CREATE THE LOADING SPRITE
     let s = sprites.create(img`
