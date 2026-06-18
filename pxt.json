@@ -5,6 +5,7 @@
     "dependencies": {
         "device": "*",
         "settings": "*",
+        "settings-blocks": "*",
         "arcade-story": "*"
     },
     "preferredEditor": "arcade",
