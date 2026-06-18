@@ -6,4 +6,10 @@
         "device": "*"
     },
     "preferredEditor": "arcade"
+"dependencies": {
+    "device": "*",
+    "settings": "*"
 }
+
+}
+
