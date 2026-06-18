@@ -1,3 +1,4 @@
+//% weight=100 color=#00AEEF icon="⚙"
 namespace systemui {
 
     // SAVE FILE MENU MODE
